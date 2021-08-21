@@ -40,8 +40,8 @@ where:<br>
 
 ### Goals
 
-:heavy_check_mark: Fitting a LDA model.
-:heavy_check_mark: Finding a the optimal no. topics with best coherence score.
-:heavy_check_mark: Returning the LDA model with optimal topics.
-:heavy_check_mark: Returning the optimal no. of topics.
-:heavy_check_mark: Returning the topics itself.
+:heavy_check_mark: Fitting a LDA model.<br>
+:heavy_check_mark: Finding a the optimal no. topics with best coherence score.<br>
+:heavy_check_mark: Returning the LDA model with optimal topics.<br>
+:heavy_check_mark: Returning the optimal no. of topics.<br>
+:heavy_check_mark: Returning the topics itself.<br>
