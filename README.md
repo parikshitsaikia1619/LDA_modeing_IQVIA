@@ -17,6 +17,7 @@ This is the most important step in this entire code . We cannot expect good resu
 As the famous quote goes <i>"garbage in,garbage out"</i><br>
 We want our corpus consisting a list of representative words capturing the essence of each article, To achieve that we need to follow a sequence of steps:<br>
 ![nlp_preprocessing](image.PNG)
+![nlp_preprocessing1](images/img2.PNG)
 <br>
 
 ### Step 4: Finalizing the input data
@@ -32,14 +33,15 @@ The time complexity of this process : **O( m * x * p)**<br>
 where:<br>
 * m = no. of tokens in the corpus
 * x = summation of no. of topics given in the range
-* p = no. of passes for LDA model
-
+* p = no. of passes for LDA model<br>
+* 
+![results](images/img1.PNG)
 ### Step 6: Visualization
 
 ### Goals
 
-:heavy_check_mark: Fitting a LDA model.
-:heavy_check_mark: Finding a the optimal no. topics with best coherence score.
-:heavy_check_mark: Returning the LDA model with optimal topics.
-:heavy_check_mark: Returning the optimal no. of topics.
-:heavy_check_mark: Returning the topics itself.
+:heavy_check_mark: Fitting a LDA model.<br>
+:heavy_check_mark: Finding a the optimal no. topics with best coherence score.<br>
+:heavy_check_mark: Returning the LDA model with optimal topics.<br>
+:heavy_check_mark: Returning the optimal no. of topics.<br>
+:heavy_check_mark: Returning the topics itself.<br>
